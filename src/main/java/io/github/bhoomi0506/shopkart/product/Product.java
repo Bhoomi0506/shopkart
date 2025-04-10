@@ -1,4 +1,4 @@
-package io.github.bhoomi0506.shopkart;
+package io.github.bhoomi0506.shopkart.product;
 
 public class Product {
     private long id;
